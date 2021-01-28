@@ -1,5 +1,7 @@
 # jgiven-addons
 
+dicontinued, see [jgiven-kotlin](https://github.com/toolisticon/jgiven-kotlin)
+
 [![Build Status](https://api.travis-ci.org/toolisticon/jgiven-addons.svg)](https://travis-ci.org/toolisticon/jgiven-addons)
 [![sponsored](https://img.shields.io/badge/sponsoredBy-Holisticon-RED.svg)](https://holisticon.de/)
 [![release](https://img.shields.io/badge/jcenter-0.6.0-BLUE.svg)](https://bintray.com/toolisticon/maven/jgiven-addons/)
